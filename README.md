@@ -1,6 +1,6 @@
 ![image](https://github.com/worldfootballplay/worldcupfootball/blob/master/app.png)
 
-In World Cup Football Coach Plan, you play the newly-hired head coach at your college of choice. As head coach, it will be your responsibility to manage your team's strategy, simulate through seasons, recruit new players, and above all, win championships.
+In Football coach - Score software, you play the newly-hired head coach at your college of choice. As head coach, it will be your responsibility to manage your team's strategy, simulate through seasons, recruit new players, and above all, win championships.
 
 Playing a Season: Your team will play 12 games in the regular season, which consist of playing all 9 of your conference opponents once and three out-of-conference games. The most important game of the regular season is your rivalry game, which you gain prestige if won or lose prestige if lost.
 
