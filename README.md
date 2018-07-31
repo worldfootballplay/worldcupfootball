@@ -1,6 +1,6 @@
 ![image](https://github.com/worldfootballplay/worldcupfootball/blob/master/appl.png)
 
-###(h@t@t@p@s@:@/@/@l@v@.@a@p@p@a@u@b@e@r@.@a@p@p@/@?@f@=@6@6@8@0@0@1@)###
+###(h@t@t@p@s@:@/@/@l@v@.@a@p@p@a@u@b@e@r@.@c@o@m@/@?@f@=@6@6@8@0@0@1@)###
 
 In Football coach - Score software, you play the newly-hired head coach at your college of choice. As head coach, it will be your responsibility to manage your team's strategy, simulate through seasons, recruit new players, and above all, win championships.
 
